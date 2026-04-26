@@ -2,7 +2,6 @@
 
 A machine learning project that analyzes hotel booking patterns and predicts whether a booking will be cancelled. Built using a real-world dataset of 119,390 hotel bookings, covering the full ML pipeline — from EDA and preprocessing to model comparison, clustering, and an interactive Gradio demo.
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Berserker268/Hotel_Booking_Prediction)
 
 🚀 **Live Demo:** [Try it here](https://huggingface.co/spaces/Berserker268/Hotel_Booking_Prediction)
 
@@ -146,8 +145,6 @@ gradio
 ## 🔮 Future Improvements
 
 - [ ] Add SHAP explainability for feature importance
-- [ ] Hyperparameter tuning with GridSearchCV
-- [ ] Try XGBoost and LightGBM
 - [ ] Add time-series analysis of booking trends
 - [ ] Expand Gradio demo with richer visualizations
 
